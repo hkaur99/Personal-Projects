@@ -5,10 +5,10 @@ library(tm)
 library(wordcloud)
 
 
-API_key='z7AbkHu8r9lpg78VBIuWF0XAL'
-API_secret_key='dxDeR51kVuL26KcMCHclWBdYKU6QqGaV9JSfcLq9PRgXvvXXbI'
-Access_Token='1192171907145256962-7O0qOHyfXaODM88TJ4G591De5nvxDC'
-Access_Token_Secret='vH8SIfvZOLrh7eSmgPboT2JxDU0v0DWiYme9D4Yjv5MD2'
+API_key=''
+API_secret_key=''
+Access_Token=''
+Access_Token_Secret=''
 
 #handsaking mode or function
 setup_twitter_oauth(API_key, API_secret_key, Access_Token, Access_Token_Secret)
